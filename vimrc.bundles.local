@@ -1,0 +1,4 @@
+Bundle "mhinz/vim-startify"
+Bundle "xsbeats/vim-blade"
+Bundle 'mbadran/headlights'
+

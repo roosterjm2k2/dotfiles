@@ -1,0 +1,12 @@
+set noexpandtab
+
+set guifont=Sauce\ Code\ Powerline:h12
+
+let NERDTreeQuitOnOpen=0
+let g:nerdtree_tabs_open_on_gui_startup = 1
+set nofoldenable                " disable code folding
+let g:DisableAutoPHPFolding = 1 " disable PIV's folding
+
+autocmd BufReadPost *.blade.php set ft=blade
+
+
